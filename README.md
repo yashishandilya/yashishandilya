@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 Human and artificial intelligence has fascinated me for as long as I can remember, leading me to switch my career from being a Neuroscience major on track for Med School to Computer Science! In my spare time, I love reading, writing, adding things to my endless Pinterest boards, taking long walks, and cleaning things that were already clean. 
 
 ### What I have worked on outside my university curriculum:
-<p>**Currently Learning**: Developed a Pinterest clone using the MERN stack, currently adding a new feature involving pins recommended using Sanzo Wada color palettes<br>
-**Currently Reading**: 'Darwin's Backyard' by James T. Costa and 'The Worlds I See' by Dr. Fei-Fei Li<br><br>
+<p><strong>Currently Learning</strong>: Developed a Pinterest clone using the MERN stack, currently adding a new feature involving pins recommended using Sanzo Wada color palettes<br>
+<strong>Currently Reading</strong>: 'Darwin's Backyard' by James T. Costa and 'The Worlds I See' by Dr. Fei-Fei Li<br><br>
 My all-time favorite book recommendation is 'Prisoners of Geography' by Tim Marshall.</p>
 
 ### Me, at the Association for Computing Machinery at University of Illinois Chicago
@@ -32,6 +32,6 @@ President, for the second year in a row. I have founded and led 2 Special Intere
 I am interested in Full-Stack Development and AI/ML roles. ACM at UIC is my current full-time hobby. The best way to reach me is through email!
 
 ### TECHNICAL SKILLS:
-<p>**Programming Languages:** JavaScript, Java, Python, SQL, C/C++, HTML, CSS<br>
-**Platforms & Developer Tools:** Linux, Windows, Git, Postman, MongoDB, Maven, Pytorch, Docker<br>
-**Libraries & Frameworks:** Node.js, React.js, Express.js, Sckit-learn, REST, MySQL, JUnit, FXML</p>
+<p><strong>Programming Languages:</strong> JavaScript, Java, Python, SQL, C/C++, HTML, CSS<be>
+<strong>Platforms & Developer Tools:</strong> Linux, Windows, Git, Postman, MongoDB, Maven, Pytorch, Docker<be>
+<strong>Libraries & Frameworks:</strong> Node.js, React.js, Express.js, Sckit-learn, REST, MySQL, JUnit, FXML</p>
