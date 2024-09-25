@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ### I am Yashi / यशी. My name is pronounced as yu(h)-shi / /jʌ ʃi/, and I love thinking about thinking. 
 ![image](https://github.com/user-attachments/assets/d13d972f-cb4b-4571-9fcb-6b2a7868c437)
 
-Human and artificial intelligence has fascinated me for as long as I can remember, leading me to switch my career from being a Neuroscience major on track for Med School to Computer Science! In my spare time, I love reading, writing, adding things to my endless Pinterest boards, taking long walks, and cleaning things that were already clean. 
+Human and artificial intelligence have fascinated me for as long as I can remember, leading me to switch my career from being a Neuroscience major on track for Med School to Computer Science!<br>
+In my spare time, I love reading, writing, adding things to my endless Pinterest boards, taking long walks, and cleaning things that were already clean. 
 
 ### What I have worked on outside my university curriculum:
 <p><strong>Currently Learning</strong>: Developed a Pinterest clone using the MERN stack, currently adding a new feature involving pins recommended using Sanzo Wada color palettes<br>
@@ -32,6 +33,6 @@ President, for the second year in a row. I have founded and led 2 Special Intere
 I am interested in Full-Stack Development and AI/ML roles. ACM at UIC is my current full-time hobby. The best way to reach me is through email!
 
 ### TECHNICAL SKILLS:
-<p><strong>Programming Languages:</strong> JavaScript, Java, Python, SQL, C/C++, HTML, CSS<be>
-<strong>Platforms & Developer Tools:</strong> Linux, Windows, Git, Postman, MongoDB, Maven, Pytorch, Docker<be>
+<p><strong>Programming Languages:</strong> JavaScript, Java, Python, SQL, C/C++, HTML, CSS<br>
+<strong>Platforms & Developer Tools:</strong> Linux, Windows, Git, Postman, MongoDB, Maven, Pytorch, Docker<br>
 <strong>Libraries & Frameworks:</strong> Node.js, React.js, Express.js, Sckit-learn, REST, MySQL, JUnit, FXML</p>
