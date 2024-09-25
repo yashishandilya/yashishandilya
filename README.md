@@ -18,23 +18,20 @@ Here are some ideas to get you started:
 ### I am Yashi / यशी. My name is pronounced as yu(h)-shi / /jʌ ʃi/, and I love thinking about thinking. 
 ![image](https://github.com/user-attachments/assets/d13d972f-cb4b-4571-9fcb-6b2a7868c437)
 
-Human and artificial intelligence has fascinated me for as long as I can remember, leading me to switch my career from being a Neuroscience major on track for Med School to Computer Science! 
-
-In my spare time, I love reading, writing, adding things to my endless Pinterest boards, taking long walks, and cleaning things that were already clean. 
-My all-time favorite book recommendation is 'Prisoners of Geography' by Tim Marshall. 
+Human and artificial intelligence has fascinated me for as long as I can remember, leading me to switch my career from being a Neuroscience major on track for Med School to Computer Science! In my spare time, I love reading, writing, adding things to my endless Pinterest boards, taking long walks, and cleaning things that were already clean. My all-time favorite book recommendation is 'Prisoners of Geography' by Tim Marshall. 
 
 ### What I have worked on outside my university curriculum:
-Currently Learning: Developed a Pinterest clone using the MERN stack, currently adding a new feature involving pins recommended using Sanzo Wada color palettes
-Currently Reading: 'Darwin's Backyard' by James T. Costa and 'The Worlds I See' by Dr. Fei-Fei Li
+<p>Currently Learning: Developed a Pinterest clone using the MERN stack, currently adding a new feature involving pins recommended using Sanzo Wada color palettes<br>
+Currently Reading: 'Darwin's Backyard' by James T. Costa and 'The Worlds I See' by Dr. Fei-Fei Li</p>
 
 ### Me, at the Association for Computing Machinery at University of Illinois Chicago
-President, for the second year in a row
-I have founded and led 2 Special Interest Groups in Algorithms and AI, respectively. Through my weekly project-based and lecture-based meetings, I am trying to bridge the gap in resources in Technical Interview Prep and AI at my university.
+President, for the second year in a row. I have founded and led 2 Special Interest Groups in Algorithms and AI, respectively. Through my weekly project-based and lecture-based meetings, I am trying to bridge the gap in resources in Technical Interview Prep and AI at my university.
 
 ### My hopes in the current job market:
 I am interested in Full-Stack Development and AI/ML roles. ACM at UIC is my current full-time hobby. The best way to reach me is through email!
 
 ### TECHNICAL SKILLS:
-Programming Languages: JavaScript, Java, Python, SQL, C/C++, HTML, CSS
-Platforms & Developer Tools: Linux, Windows, Git, Postman, MongoDB, Maven, Pytorch, Docker
-Libraries & Frameworks: Node.js, React.js, Express.js, Sckit-learn, REST, MySQL, JUnit, FXML
+<p>Programming Languages: JavaScript, Java, Python, SQL, C/C++, HTML, CSS<br>
+Platforms & Developer Tools: Linux, Windows, Git, Postman, MongoDB, Maven, Pytorch, Docker<br>
+Libraries & Frameworks: Node.js, React.js, Express.js, Sckit-learn, REST, MySQL, JUnit, FXMLThis is the first line.<br>
+And this is the second line.</p>
