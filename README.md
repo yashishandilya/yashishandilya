@@ -34,5 +34,5 @@ I am interested in Full-Stack Development and AI/ML roles. ACM at UIC is my curr
 
 ### TECHNICAL SKILLS:
 <p><strong>Programming Languages:</strong> JavaScript, Java, Python, SQL, C/C++, HTML, CSS<br>
-<strong>Platforms & Developer Tools:</strong> Linux, Windows, Git, Postman, MongoDB, Maven, Pytorch, Docker<br>
-<strong>Libraries & Frameworks:</strong> Node.js, React.js, Express.js, Sckit-learn, REST, MySQL, JUnit, FXML</p>
+<strong>Platforms & Developer Tools:</strong>  Material UI, Linux, Windows, Git, Postman, MongoDB, Pytorch, Firebase, Firestore<br>
+<strong>Libraries & Frameworks:</strong> Node.js, React.js, Express.js, Sckit-learn, REST, MySQL, Vision API, OpenAI API, Agora</p>
